@@ -1,3 +1,3 @@
 <?php
-echo 'ye';
+  echo 'Thi is updated file';
 ?>
